@@ -6,3 +6,4 @@
     - `grun Printer stat -tokens ../../print.demo` to checkout the tokens
     - `grun Printer stat -tree ../../print.demo` to see LISP style tree
     - replace `print.demo` with `print-faulty.demo` to see how it behaves with errors
+5. To test C# parser: `dotnet run -p AdvParsing print.demo`
