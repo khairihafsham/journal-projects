@@ -7,3 +7,37 @@
     - `grun Printer stat -tree ../../print.demo` to see LISP style tree
     - replace `print.demo` with `print-faulty.demo` to see how it behaves with errors
 5. To test C# parser: `dotnet run -p AdvParsing print.demo`
+
+# Resources
+
+##  Building parser, interpreter and compiler
+
+1. In Java and C http://craftinginterpreters.com
+2. In GO https://interpreterbook.com
+3. In F# https://www.itu.dk/~sestoft/plc/
+4. In Python https://norvig.com/lispy.html
+
+## Language Patterns
+
+1. https://pragprog.com/titles/tpdsl/language-implementation-patterns/
+
+## ANTLR 4
+
+1. https://pragprog.com/titles/tpantlr2/the-definitive-antlr-4-reference/
+2. https://tomassetti.me/getting-started-with-antlr-in-csharp/
+3. Paper about the ALL(\*) Algorithm https://www.antlr.org/papers/allstar-techreport.pdf
+
+## PEG parser generator in Python
+
+1. https://medium.com/@gvanrossum_83706/peg-parsing-series-de5d41b2ed60
+2. The proposal https://www.python.org/dev/peps/pep-0617/
+
+## BNF in languages
+
+1. https://github.com/elixir-lang/elixir/blob/master/lib/elixir/src/elixir_parser.yrl
+2. https://github.com/ruby/ruby/blob/master/parse.y
+3. https://github.com/python/cpython/blob/main/Grammar/python.gram
+
+## Notable Mention
+
+1. https://github.com/sarabander/sicp
